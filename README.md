@@ -17,12 +17,18 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ## Projects
 Portfolio Website: A personal website to showcase my projects and background, built with HTML, CSS, and JavaScript.
+
 3D Plotting Program: A Python application using matplotlib to visualize 3D data in creative ways.
+
 Bar Charts Visualizer: A C++ program that parses text files and visualizes word frequencies using bar charts.
+
 Satellite Network Simulator: A simulation tool built in C++ for understanding and analyzing satellite network communications.
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/fatin-mojumder/
+
 GitHub: https://github.com/fatinm1
+
 Portfolio: https://fatinm1.github.io/Fatin-Portfolio/
+
 Feel free to reach out for collaborations or just a chat about tech and software development!
