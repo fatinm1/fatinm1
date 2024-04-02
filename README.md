@@ -13,7 +13,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 🚀 Projects: Portfolio Website, 3D Plotting Program, Bar Charts Visualizer, Satellite Network Simulator and many more
 
-📈 Interests: Data Science, Web Development, IoT, and AI
+📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
 
 ## Projects
 Portfolio Website: A personal website to showcase my projects and background, built with HTML, CSS, and JavaScript.
