@@ -24,6 +24,12 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
 
+![AI](https://img.shields.io/badge/AI-Artificial_Intelligence-9cf.svg?&style=for-the-badge&logo=ai&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software_Development-0078D4.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-007ACC.svg?&style=for-the-badge&logo=web&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-306998.svg?&style=for-the-badge&logo=data-science&logoColor=white)
+
+
 
 ## Projects 💻
 View all my projects at [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
