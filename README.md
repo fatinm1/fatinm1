@@ -20,10 +20,10 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
 🌐 Languages: 
-![Bengali](https://img.shields.io/badge/Bengali-Cyan?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Blue?style=for-the-badge)
-![German](https://img.shields.io/badge/German-Red?style=for-the-badge)
-![Hindi](https://img.shields.io/badge/Hindi-LightGreen?style=for-the-badge)
+![Bengali](https://img.shields.io/badge/-Bengali-00599C?style=for-the-badge&labelColor=00599C&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=white)
+![English](https://img.shields.io/badge/-English-1E90FF?style=for-the-badge&labelColor=1E90FF&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=white)
+![German](https://img.shields.io/badge/-German-yellow?style=for-the-badge&labelColor=yellow&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=black)
+![Hindi](https://img.shields.io/badge/-Hindi-orange?style=for-the-badge&labelColor=orange&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=white)
 
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
