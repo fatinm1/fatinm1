@@ -32,4 +32,8 @@ Satellite Network Simulator: A simulation tool built in C++ for understanding an
 [![GitHub](https://img.shields.io/badge/GitHub-fatinm1-lightgrey?style=flat-square&logo=github)](https://github.com/fatinm1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Fatin's%20Portfolio-brightgreen?style=flat-square)](https://fatinm1.github.io/Fatin-Portfolio/)
 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/fatin-mojumder/)
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
+[![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://fatinm1.github.io/Fatin-Portfolio/)
+
 Feel free to reach out for collaborations or just a chat about tech and software development!
