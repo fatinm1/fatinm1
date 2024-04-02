@@ -28,7 +28,6 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 View all my projects at [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
 
 
-
 ## Connect with Me
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/fatin-mojumder/)
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
