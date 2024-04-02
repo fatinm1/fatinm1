@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
-🚀 Projects: Portfolio Website, 3D Plotting Program, Bar Charts Visualizer, Satellite Network Simulator
+🚀 Projects: Portfolio Website, 3D Plotting Program, Bar Charts Visualizer, Satellite Network Simulator and many more
 
 📈 Interests: Data Science, Web Development, IoT, and AI
 
