@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
-⚡ Most used programming languages:
+⚡ Most used:
 
 ![C++](https://img.shields.io/badge/C++-90%25-<COLOR>.svg?style=flat)
 ![Python](https://img.shields.io/badge/Python-85%25-<COLOR>.svg?style=flat)
@@ -27,6 +27,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-<COLOR>.svg?style=flat)
 ![HTML](https://img.shields.io/badge/HTML-70%25-<COLOR>.svg?style=flat)
 ![CSS](https://img.shields.io/badge/CSS-70%25-<COLOR>.svg?style=flat)
+
 
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
