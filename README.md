@@ -20,8 +20,6 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
 🌐 Languages: 
-## Languages Spoken
-
 ![Bengali](https://img.shields.io/badge/Bengali-Cyan?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Blue?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-Red?style=for-the-badge)
