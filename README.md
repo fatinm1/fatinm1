@@ -32,7 +32,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 
 ## Projects 💻
-View all my projects at [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
+View all my projects at https://github.com/fatinm1
 
 
 ## Connect with Me
