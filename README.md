@@ -1,5 +1,6 @@
 ## Hello, I'm Fatin Mojumder 👋
 
+
 ## About Me
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
 
@@ -15,6 +16,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
 
+
 ## Projects
 Portfolio Website: A personal website to showcase my projects and background, built with HTML, CSS, and JavaScript.
 
@@ -23,6 +25,7 @@ Portfolio Website: A personal website to showcase my projects and background, bu
 Bar Charts Visualizer: A C++ program that parses text files and visualizes word frequencies using bar charts.
 
 Satellite Network Simulator: A simulation tool built in C++ for understanding and analyzing satellite network communications.
+
 
 ## Connect with Me
 LinkedIn: https://www.linkedin.com/in/fatin-mojumder/
