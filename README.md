@@ -22,7 +22,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
-📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
+📈 Interests:
 
 ![AI](https://img.shields.io/badge/AI-Artificial_Intelligence-9cf.svg?&style=for-the-badge&logo=ai&logoColor=white)
 ![Software Development](https://img.shields.io/badge/Software_Development-0078D4.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
