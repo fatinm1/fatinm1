@@ -21,7 +21,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 🌐 Languages: 
 
-![Bengali](https://img.shields.io/badge/-Bengali-00599C?style=for-the-badge&labelColor=00599C&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=white)
+![CustomLogo](https://img.shields.io/badge/-CustomLogo-0D76A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANAAAADJCAYAAABSfbwnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMA)
 ![English](https://img.shields.io/badge/-English-1E90FF?style=for-the-badge&labelColor=1E90FF&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=white)
 ![German](https://img.shields.io/badge/-German-yellow?style=for-the-badge&labelColor=yellow&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=black)
 ![Hindi](https://img.shields.io/badge/-Hindi-orange?style=for-the-badge&labelColor=orange&logo=data:image/png;base64,<<BASE64_STRING>>&logoColor=white)
