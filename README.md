@@ -23,8 +23,10 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
 
+
 ## Projects 💻
 View all my projects at [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
+
 
 
 ## Connect with Me
