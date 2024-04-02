@@ -33,10 +33,6 @@ View all my projects at [![GitHub](https://img.icons8.com/material-outlined/48/0
 
 
 
-
-
-
-
 📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
 
 
