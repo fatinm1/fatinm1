@@ -10,7 +10,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![C++](https://img.icons8.com/color/48/000000/c-logo.png)
+![C](https://img.icons8.com/color/48/000000/c-logo.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
