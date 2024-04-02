@@ -20,6 +20,12 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
 
+![C](https://img.shields.io/badge/C-90%25-<COLOR>.svg?style=flat)
+![Python](https://img.shields.io/badge/Python-95%25-<COLOR>.svg?style=flat)
+![Java](https://img.shields.io/badge/Java-80%25-<COLOR>.svg?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-<COLOR>.svg?style=flat)
+
+
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
 📈 Interests:
