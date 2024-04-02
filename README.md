@@ -19,7 +19,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
-⚡ Most used:
+⚡ Most used Languages:
 
 ![C++](https://img.shields.io/badge/C++-90%25-<COLOR>.svg?style=flat)
 ![Python](https://img.shields.io/badge/Python-85%25-<COLOR>.svg?style=flat)
