@@ -6,7 +6,19 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 📚 Education: Bachelor of Science in Computer Science, University of Maryland, Baltimore County
 
-🔧 Technical Skills: C++, Python, Java, JavaScript, HTML, CSS, Git, Scheme, Prolog, Lisp
+🔧 Technical Skills: 
+[Python](https://img.icons8.com/color/48/000000/python.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
+![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
 🌐 Languages: Fluent in Bengali and English, Intermediate in Hindi and German
 
