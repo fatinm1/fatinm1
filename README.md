@@ -19,7 +19,13 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
 
-🌐 Languages: Fluent in Bengali and English, Intermediate in Hindi and German
+🌐 Languages: 
+## Languages Spoken
+
+![Bengali](https://img.shields.io/badge/Bengali-Cyan?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Blue?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Red?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-LightGreen?style=for-the-badge)
 
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
