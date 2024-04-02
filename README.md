@@ -29,30 +29,9 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
 ## Projects 💻
-
-<!-- Portfolio Website -->
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-204051?style=for-the-badge&logo=web&logoColor=white)](https://fatinm1.github.io/Fatin-Portfolio/)
-
-<!-- 3D Plotting Program -->
-[![3D Plotting Program](https://img.shields.io/badge/3D_Plotting_Program-00b894?style=for-the-badge&logo=python&logoColor=white)](https://github.com/fatinm1/3D-Graph-Generator)
-<!-- Bar Charts Visualizer -->
-[![Bar Charts Visualizer](https://img.shields.io/badge/Bar_Charts_Visualizer-ff9f1a?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/fatinm1/Bar-Charts-Visualizer)
-
-<!-- Satellite Network Simulator -->
-[![Satellite Network Simulator](https://img.shields.io/badge/Satellite_Network_Simulator-3498db?style=for-the-badge&logo=satellite&logoColor=white)](https://github.com/fatinm1/Satellite-Network-Simulator)
-
+View all my projects on [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
 
 📈 Interests: Software Development, Web Development, AI/ML, IoT, Data Science
-
-
-## Projects
-Portfolio Website: A personal website to showcase my projects and background, built with HTML, CSS, and JavaScript.
-
-3D Plotting Program: A Python application using matplotlib to visualize 3D data in creative ways.
-
-Bar Charts Visualizer: A C++ program that parses text files and visualizes word frequencies using bar charts.
-
-Satellite Network Simulator: A simulation tool built in C++ for understanding and analyzing satellite network communications.
 
 
 ## Connect with Me
