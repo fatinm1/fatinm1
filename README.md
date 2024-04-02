@@ -7,7 +7,7 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 📚 Education: Bachelor of Science in Computer Science, University of Maryland, Baltimore County
 
 🔧 Technical Skills: 
-[Python](https://img.icons8.com/color/48/000000/python.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
