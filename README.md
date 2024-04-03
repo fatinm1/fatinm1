@@ -21,13 +21,12 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 ⚡ Most used Languages:
 
-![C++](https://img.shields.io/badge/C++-30%25-<COLOR>.svg?style=flat)
-![Python](https://img.shields.io/badge/Python-20%25-<COLOR>.svg?style=flat)
+![C++](https://img.shields.io/badge/C++-35%25-<COLOR>.svg?style=flat)
+![Python](https://img.shields.io/badge/Python-25%25-<COLOR>.svg?style=flat)
 ![Java](https://img.shields.io/badge/Java-15%25-<COLOR>.svg?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-15%25-<COLOR>.svg?style=flat)
 ![HTML](https://img.shields.io/badge/HTML-10%25-<COLOR>.svg?style=flat)
-![CSS](https://img.shields.io/badge/CSS-5%25-<COLOR>.svg?style=flat)
-
+![CSS](https://img.shields.io/badge/CSS-10%25-<COLOR>.svg?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-5%25-<COLOR>.svg?style=flat)
 
 💼 Currently: IT Assistant at UMBC Graduate Admissions Office, focusing on system configurations and managing student records
 
