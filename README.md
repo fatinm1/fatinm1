@@ -2,7 +2,7 @@
 
 
 ## About Me
-I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
+I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, C, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
 
 📚 Education: Bachelor of Science in Computer Science, University of Maryland, Baltimore County
 
