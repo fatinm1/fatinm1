@@ -21,9 +21,6 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 [![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)](https://www.jetbrains.com/pycharm/)
 [![GIS](https://img.icons8.com/color/48/000000/globe--v2.png)](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
 
-![Python](https://your-image-host.com/path/to/python-progress.png)
-![C++](https://your-image-host.com/path/to/cpp-progress.png)
-![JavaScript](https://your-image-host.com/path/to/javascript-progress.png)
 
 ⚡ Most used Languages:
 
