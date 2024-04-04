@@ -19,7 +19,8 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 ![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
 ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
-![ArcGIS](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArcGIS&psig=AOvVaw019H6pjoqqw3qdpdPg1eo-&ust=1712278864131000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDk7f2tp4UDFQAAAAAdAAAAABAE)
+![GIS](https://img.icons8.com/color/48/000000/globe--v2.png)
+
 ⚡ Most used Languages:
 
 ![C++](https://img.shields.io/badge/C++-30%25-<COLOR>.svg?style=flat)
