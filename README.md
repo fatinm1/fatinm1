@@ -8,18 +8,19 @@ I'm a Computer Science student at the University of Maryland Baltimore County (U
 
 🔧 Technical Skills: 
 
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
-![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)
-![GIS](https://img.icons8.com/color/48/000000/globe--v2.png)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org)
+[![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://isocpp.org/)
+[![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)](https://www.oracle.com/java/)
+[![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.icons8.com/color/48/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)
+[![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/)
+[![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+[![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)](https://www.jetbrains.com/pycharm/)
+[![GIS](https://img.icons8.com/color/48/000000/globe--v2.png)](https://www.esri.com/en-us/arcgis/about-arcgis/overview)
+
 
 ⚡ Most used Languages:
 
