@@ -1,4 +1,4 @@
-## Hi, I'm Fatin Mojumder 👋 ![Hand Wave](https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif)
+## Hi, I'm Fatin Mojumder 👋 
 
 
 ## About Me
