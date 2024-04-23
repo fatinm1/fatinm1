@@ -1,4 +1,18 @@
-## Hello, I'm Fatin Mojumder 👋
+<h1>
+  <span style="animation: rainbow-animation 2s infinite; font-size: 24px;">
+    Fatin Mojumder
+  </span>
+</h1>
+
+<style>
+  @keyframes rainbow-animation {
+    0%,100% { color: red; }
+    20% { color: orange; }
+    40% { color: yellow; }
+    60% { color: green; }
+    80% { color: blue; }
+  }
+</style>
 
 
 ## About Me
