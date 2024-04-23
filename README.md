@@ -1,4 +1,4 @@
-## Hi, I'm Fatin Mojumder 👋 
+## Hi, I'm Fatin Mojumder 👋 ![Hand Wave](https://media.tenor.com/mk8OfEi_aV4AAAAM/waving-hello.gif)
 
 
 ## About Me
