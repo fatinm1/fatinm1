@@ -1,5 +1,4 @@
-## Hi, I'm Fatin Mojumder 👋 ![Hand Wave](https://media.tenor.com/mk8OfEi_aV4AAAAM/waving-hello.gif)
-
+## Hi, I'm Fatin Mojumder 👋 
 
 ## About Me
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, C, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
