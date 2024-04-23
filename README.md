@@ -3,7 +3,6 @@
     Fatin Mojumder
   </span>
 </h1>
-
 <style>
   @keyframes rainbow-animation {
     0%,100% { color: red; }
