@@ -1,4 +1,4 @@
-## Hi, I am Fatin Mojumder 👋
+## Hi, I'm Fatin Mojumder 👋
 
 
 ## About Me
