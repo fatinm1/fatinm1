@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://wisdom.badge.url/badge/page_id=salesrep1.salesrep1" />
+  <img src="https://wisdom.badge.url/badge/page_id=fatinm1.fatinm1" />
 </div>
 
 <a href="https://git.io/typing-svg">
