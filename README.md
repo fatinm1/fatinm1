@@ -5,9 +5,40 @@
 <br/>
 
 <div align="center">
-  <!-- Replace 'your-github-username' with your actual GitHub username -->
-  <img src="https://count.getloli.com/get/@your-github-username?theme=gelbooru" alt="Batman themed visitor count" style="filter: hue-rotate(180deg) brightness(0.5);">
+  <div id="view-counter" class="digital-counter"></div>
 </div>
+
+<style>
+  .digital-counter {
+    font-family: 'Digital-7 Mono', monospace;
+    color: #00ff00; /* Classic green digital clock color */
+    font-size: 2rem;
+    background: #000;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    animation: blinker 1s step-start infinite;
+  }
+
+  @keyframes blinker {
+    50% { opacity: 0; }
+  }
+</style>
+
+<script>
+  const counterElement = document.getElementById('view-counter');
+  let count = 0;
+
+  function updateCounter() {
+    counterElement.textContent = count.toString().padStart(6, '0'); // e.g., "000123"
+    count++; // Increment the count
+  }
+
+  // Update the counter every second
+  setInterval(updateCounter, 1000);
+</script>
+
 
 
 ## About Me
