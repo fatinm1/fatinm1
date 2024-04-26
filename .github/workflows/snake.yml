@@ -1,10 +1,20 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    # This will run the workflow at midnight UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # This allows you to run the workflow manually from the GitHub Actions tab
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
-          # Your configuration here
+          # This fetches all the history for all branches and tags
+          fetch-depth: 0
 
       - name: Generate snake game
         uses: Platane/snk@master
@@ -12,7 +22,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
