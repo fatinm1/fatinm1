@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="center">
+<div align="right">
   <!-- Additional centered content can go here -->
 </div>
 
