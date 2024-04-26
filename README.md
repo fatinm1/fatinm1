@@ -5,12 +5,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@fatinm1?theme=rule34" />
-</div>
-
-
-
-<div align="center">
   <!-- Replace 'your-github-username' with your actual GitHub username -->
   <img src="https://count.getloli.com/get/@your-github-username?theme=gelbooru" alt="Batman themed visitor count" style="filter: hue-rotate(180deg) brightness(0.5);">
 </div>
