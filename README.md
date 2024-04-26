@@ -4,8 +4,8 @@
 
 <br/>
 
-<div align="right">
-  <!-- Additional centered content can go here -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@fatinm1?theme=rule34" />
 </div>
 
 ## About Me
