@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://wisdom.badge.url/badge/page_id=salesrep1.salesrep1" />
-</div>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+Fatin+Mojumder+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.&center=true&width=380&height=50" />
 </a>
