@@ -9,6 +9,10 @@
   <img src="https://count.getloli.com/get/@your-github-username?theme=gelbooru" alt="Batman themed visitor count" style="filter: hue-rotate(180deg) brightness(0.5);">
 </div>
 
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+</div>
 
 ## About Me
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, C, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
