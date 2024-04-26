@@ -63,7 +63,12 @@ View all my projects at https://github.com/fatinm1
 Below is a fun representation of my GitHub contributions as a snake eating through the grass of coding! It’s a unique way to visualize the work I’ve put into my projects over time.
 
 <div align="center">
-    <img src="https://github.com/fatinm1/fatinm1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions"/>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/fatinm1/fatinm1/output/github-contribution-grid-snake.svg"/>
+  <br><br><br>
 </div>
+<hr>
+
 
 Feel free to reach out for collaborations or just a chat about tech and software development.
