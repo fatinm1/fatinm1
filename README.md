@@ -8,11 +8,7 @@
   <img src="https://count.getloli.com/get/@fatinm1?theme=rule34" />
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+Fatin+Mojumder+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.&center=true&width=380&height=50" />
-</a>
 
-<br/>
 
 <div align="center">
   <!-- Replace 'your-github-username' with your actual GitHub username -->
