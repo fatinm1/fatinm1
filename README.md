@@ -1,4 +1,18 @@
-## Hi, I'm Fatin Mojumder 👋 
+<div align="right">
+  <img src="https://wisdom.badge.url/badge/page_id=salesrep1.salesrep1" />
+</div>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+enthusiastic+about+Generative+AI;Always+learning+and+growing+in+the+field.&center=true&width=380&height=50" />
+</a>
+
+<h3 align="center">A passionate software developer from Canada</h3>
+
+<br/>
+
+<div align="center">
+  <!-- Content that will be centered on the page goes here -->
+</div>
 
 ## About Me
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, C, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
