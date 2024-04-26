@@ -6,7 +6,7 @@
 
 <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
+            src="https://widgetbite.com/stats/<View Counter>"/>  
 </div>
 
 ## About Me
