@@ -6,7 +6,7 @@
 
 <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/Profile" style="width:500px; height:100px;"/>  
+            src="https://widgetbite.com/stats/Profile" style="width:300px; height:100px;"/>  
 </div>
 
 ## About Me
