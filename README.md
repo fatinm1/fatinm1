@@ -1,17 +1,18 @@
 <div align="right">
-  <img src="https://wisdom.badge.url/badge/page_id=fatinm1.fatinm1" />
+  <img src="https://wisdom.badge.url/badge/page_id=salesrep1.salesrep1" />
 </div>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+enthusiastic+about+Generative+AI;Always+learning+and+growing+in+the+field.&center=true&width=380&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+Fatin+Mojumder+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.&center=true&width=380&height=50" />
 </a>
 
-<h3 align="center">Hi, I am Fatin Mojumder. Welcome to my Github</h3>
+<h3 align="center">Hi, I'm Fatin Mojumder 👋</h3>
+<h4 align="center">Welcome to my GitHub Profile</h4>
 
 <br/>
 
 <div align="center">
-  <!-- Content that will be centered on the page goes here -->
+  <!-- Additional centered content can go here -->
 </div>
 
 ## About Me
