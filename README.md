@@ -4,10 +4,6 @@
 
 <br/>
 
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/Profile" style="width:300px; height:160px;"/>  
-</div>
 
 ## About Me
 I'm a Computer Science student at the University of Maryland Baltimore County (UMBC), passionate about building software that improves people’s lives. With a strong foundation in programming languages like Python, C++, C, and JavaScript, I'm constantly exploring new technologies and working on personal projects.
