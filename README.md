@@ -60,4 +60,10 @@ View all my projects at https://github.com/fatinm1
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/fatinm1)
 [![Portfolio](https://img.icons8.com/color/48/000000/domain.png)](https://fatinm1.github.io/Fatin-Portfolio/)
 
+Below is a fun representation of my GitHub contributions as a snake eating through the grass of coding! It’s a unique way to visualize the work I’ve put into my projects over time.
+
+<div align="center">
+    <img src="https://github.com/fatinm1/fatinm1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions"/>
+</div>
+
 Feel free to reach out for collaborations or just a chat about tech and software development.
