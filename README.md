@@ -4,9 +4,6 @@
 
 <br/>
 
-<img src="https://widgetbite.com/banner?title=CS%20Student%20&subtitle=&backgroundpalette=water&fontpalette=none&titletransform=skew&subtitletransform=none" width=100% height=100%/>
-
-
 <div align="center">
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/Profile"/>  
