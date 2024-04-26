@@ -1,22 +1,17 @@
-name: Generate Snake Game
-
-on:
-  schedule:
-    # This will run the workflow automatically every day at midnight
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-    # This allows you to run the workflow manually from the Actions tab
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          # Your configuration here
+
       - name: Generate snake game
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
