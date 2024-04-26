@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+Fatin+Mojumder+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.&center=true&width=380&height=50" />
 </a>
 
-<h3 align="center">Hi, I'm Fatin Mojumder 👋</h3>
-<h4 align="center">Welcome to my GitHub Profile</h4>
-
 <br/>
 
 <div align="center">
