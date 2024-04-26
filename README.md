@@ -6,7 +6,7 @@
 
 <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<View Counter>"/>  
+            src="https://widgetbite.com/stats/<>"/>  
 </div>
 
 ## About Me
