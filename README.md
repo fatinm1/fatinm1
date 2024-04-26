@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+enthusiastic+about+Generative+AI;Always+learning+and+growing+in+the+field.&center=true&width=380&height=50" />
 </a>
 
-<h3 align="center">A passionate software developer from Canada</h3>
+<h3 align="center">Hi, I am Fatin Mojumder. Welcome to my Github</h3>
 
 <br/>
 
