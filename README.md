@@ -2,7 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+Fatin+Mojumder+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile.&center=true&width=380&height=50" />
 </a>
 
-<br/>
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/Profile" style="width:300px; height:160px;"/>  
+</div>
 
 
 ## About Me
