@@ -4,13 +4,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;Full-Stack+%26+Data+Engineer;Building+production-grade+systems;Open+to+Summer+2026+Internships" alt="Typing SVG" />
 </a>
 
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatin-mojumder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fatin.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatinm1@umbc.edu)
+<img src="https://komarev.com/ghpvc/?username=fatinm1&color=FC4C02&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/fatin-mojumder">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
+</a>
+<a href="https://fatin.dev">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" />
+</a>
+<a href="mailto:fatinm1@umbc.edu">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
+</a>
 
 </div>
-
 ---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff" width="42%" />
