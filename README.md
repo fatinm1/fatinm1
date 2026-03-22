@@ -165,12 +165,12 @@ fatin = {
 **AI and Data**
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="48" height="48" />
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="48" height="48" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48" />
 </div>
 
 ---
