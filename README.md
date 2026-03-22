@@ -27,19 +27,20 @@
 ### 👨‍💻 About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github" width="42%" />
-```python
-fatin = {
-    "school":      "UMBC — CS, Dec 2026",
-    "focus":       ["Full-Stack", "Data Engineering", "AI"],
-    "stack":       ["Python", "FastAPI", "Next.js", "BigQuery"],
-    "looking_for": "Summer 2026 SWE Internship",
-    "building":    ["Applyd", "PaceWise", "GeoTrack"]
-}
-```
+
+🎓 &nbsp; CS @ UMBC, graduating **December 2026**
+<br/>
+🔧 &nbsp; Building across **Full-Stack, Data Engineering & AI**
+<br/>
+🚀 &nbsp; Currently building **Applyd, PaceWise & GeoTrack**
+<br/>
+💼 &nbsp; Seeking **Summer 2026 SWE Internship**
+<br/>
+📍 &nbsp; Based in **Elkridge, MD**
+<br/>
+📬 &nbsp; Reach me at **fatinm1@umbc.edu**
 
 <br clear="right"/>
-
----
 
 ## 🚀 Featured Projects
 
