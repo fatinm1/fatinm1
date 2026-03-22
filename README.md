@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;Full-Stack+%26+Data+Engineer;Building+production-grade+systems;Open+to+Summer+2026+Internships" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=fatinm1&color=FC4C02&style=flat-square&label=Profile+Views" />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatin-mojumder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fatin.dev)
@@ -164,10 +159,14 @@ fatin = {
 
 **AI and Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="48" height="48" />
 <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" />
-
+<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="48" height="48" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48" />
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" />
 </div>
 
 ---
