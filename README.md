@@ -162,10 +162,6 @@ fatin = {
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="48" height="48" />
 <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" />
-<img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="48" height="48" />
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="48" height="48" />
-<img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="48" height="48" />
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="48" height="48" />
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" />
 </div>
 
