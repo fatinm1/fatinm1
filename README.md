@@ -4,24 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;Full-Stack+%26+Data+Engineer;Building+production-grade+systems;Open+to+Summer+2026+Internships" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=fatinm1&color=FC4C02&style=flat-square&label=Profile+Views" />
-
-<br/><br/>
 
 <a href="https://linkedin.com/in/fatin-mojumder">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
 </a>
 <a href="https://fatin.dev">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="48" height="48" />
 </a>
 <a href="mailto:fatinm1@umbc.edu">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
 </a>
 
 </div>
----
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff" width="42%" />
 
@@ -38,7 +32,6 @@ fatin = {
 
 <br clear="right"/>
 
----
 
 ## 🚀 Featured Projects
 
@@ -145,7 +138,6 @@ fatin = {
   </tr>
 </table>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -175,7 +167,6 @@ fatin = {
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" />
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -188,7 +179,6 @@ fatin = {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fatinm1&theme=dark&hide_border=true&background=0d1117&ring=FC4C02&fire=FC4C02&currStreakLabel=FC4C02" width="60%" />
 </div>
 
----
 
 <div align="center">
   <i>Open to Summer 2026 SWE internships — let's build something great together.</i>
