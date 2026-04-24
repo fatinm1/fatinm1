@@ -64,9 +64,8 @@
         saving <strong>2+ hours/week</strong>.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,docker&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,mysql,docker&theme=dark" />
         <br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white"/>
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
       </p>
@@ -136,9 +135,8 @@
         workflow, and signature image insertion for final output.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,nextjs,postgres,docker&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,flask,nextjs,postgres,docker&theme=dark" />
         <br/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/python--docx-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
@@ -200,15 +198,6 @@
 <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
----
-
-<div align="center">
-  <i>Open to Summer 2026 SWE internships — let's build something great together.</i>
-  <br/><br/>
-  <a href="https://linkedin.com/in/fatin-mojumder">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
 ---
 
 <div align="center">
