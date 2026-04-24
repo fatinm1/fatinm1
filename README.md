@@ -193,12 +193,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatinm1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&text_color=ffffff&cache_seconds=1800" width="38%" />
   <br/><br/>
+  
 
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
+---
+
+<div align="center">
+  <i>Open to Summer 2026 SWE internships — let's build something great together.</i>
+  <br/><br/>
+  <a href="https://linkedin.com/in/fatin-mojumder">
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 ---
 
 <div align="center">
