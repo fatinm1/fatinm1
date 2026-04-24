@@ -191,7 +191,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fatinm1&theme=dark&hide_border=true&background=0d1117&ring=FC4C02&fire=FC4C02&currStreakLabel=FC4C02" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=fatinm1&theme=dark&hide_border=true&background=0d1117&ring=FC4C02&fire=FC4C02&currStreakLabel=FC4C02&cachebust=2" width="60%" />
 </div>
 
 ---
