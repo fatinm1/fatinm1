@@ -190,9 +190,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatinm1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&text_color=ffffff" width="38%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fatinm1&theme=dark&hide_border=true&background=0d1117&ring=FC4C02&fire=FC4C02&currStreakLabel=FC4C02&cachebust=2" width="60%" />
-</div>
 
 ---
 
