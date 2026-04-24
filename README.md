@@ -64,10 +64,7 @@
         saving <strong>2+ hours/week</strong>.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,mysql,docker&theme=dark" />
-        <br/>
-        <img src="https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,mysql,docker,selenium&theme=dark" />
       </p>
     </td>
     <td width="50%">
@@ -88,11 +85,7 @@
         partitioning and clustering.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,nextjs,azure,docker&theme=dark" />
-        <br/>
-        <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+        <img src="https://skillicons.dev/icons?i=python,nextjs,azure,docker,gcp,databricks&theme=dark" />
       </p>
     </td>
   </tr>
@@ -113,9 +106,6 @@
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,nextjs,docker&theme=dark" />
-        <br/>
-        <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
@@ -136,9 +126,6 @@
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=python,flask,nextjs,postgres,docker&theme=dark" />
-        <br/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/python--docx-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
   </tr>
