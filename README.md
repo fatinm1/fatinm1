@@ -119,24 +119,26 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">EmbedWatch</h3>
+      <h3 align="center">ClausePilot</h3>
       <p align="center">
-        <a href="https://github.com/fatinm1/EmbedWatch">
+        <a href="https://nida-proj-production.up.railway.app/">
+          <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=railway&logoColor=white" />
+        </a>
+        <a href="https://github.com/fatinm1/NIDA-proj">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        Embedded Linux telemetry system streaming
-        <strong>36,000+ events/hour</strong> from 8 hardware
-        sensors via MQTT. Watchdog fault detection achieves
-        <strong>99.9% uptime</strong> across 72-hour stress
-        tests with under <strong>2% CPU overhead</strong>.
+        Full-stack NDA redlining platform powered by GPT-4. Automates
+        clause-level modifications across Word documents with an
+        admin-defined rules engine, optional accept/reject review
+        workflow, and signature image insertion for final output.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,python,bash,docker,linux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,flask,nextjs,postgres,docker&theme=dark" />
         <br/>
-        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white"/>
-        <img src="https://img.shields.io/badge/systemd-000000?style=flat-square&logo=linux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python--docx-3776AB?style=flat-square&logo=python&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -189,7 +191,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatinm1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&text_color=ffffff" width="38%" />
 </div>
-
 
 ---
 
