@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github" width="42%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github&cache_seconds=1800" width="42%" />
 
 🎓 &nbsp; CS @ UMBC, graduating **December 2026**
 <br/>
@@ -188,8 +188,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatinm1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&text_color=ffffff" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatinm1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&icon_color=FC4C02&text_color=ffffff&rank_icon=github&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatinm1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FC4C02&text_color=ffffff&cache_seconds=1800" width="38%" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatinm1&bg_color=0d1117&color=FC4C02&line=FC4C02&point=ffffff&hide_border=true" width="100%" />
 </div>
