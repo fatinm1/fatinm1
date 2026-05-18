@@ -32,10 +32,6 @@
 <br/>
 🔧 &nbsp; Building across **Full-Stack, Data Engineering & AI**
 <br/>
-🚀 &nbsp; Currently building **Applyd, PaceWise & GeoTrack**
-<br/>
-💼 &nbsp; Seeking **Summer 2026 SWE Internship**
-<br/>
 📍 &nbsp; Based in **Elkridge, MD**
 <br/>
 📬 &nbsp; Reach me at **fatinm1@umbc.edu**
