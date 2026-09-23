@@ -7,15 +7,15 @@
 <br/><br/>
 
 <a href="https://linkedin.com/in/fatin-mojumder">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" height="48" title="LinkedIn" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://fatin.dev">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="48" height="48" title="Portfolio" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="mailto:fatinm1@umbc.edu">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" height="48" title="Email" alt="Email" />
 </a>
 
 <br/><br/>
@@ -62,12 +62,15 @@
         GoogleTest unit tests.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/opengl.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/cmake_2.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/dear-imgui.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/glfw.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/googletest.png" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/opengl.png" width="48" height="48" title="OpenGL" alt="OpenGL" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/cmake_2.png" width="48" height="48" title="CMake" alt="CMake" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/dear-imgui%20(1).png" width="48" height="48" title="Dear ImGui" alt="Dear ImGui" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/glfw%20(1).png" width="48" height="48" title="GLFW" alt="GLFW" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/googletest%20(1).png" width="48" height="48" title="GoogleTest" alt="GoogleTest" />
+      </p>
+      <p align="center">
+        <sub><i>C++ &middot; OpenGL &middot; CMake &middot; Dear ImGui &middot; GLFW &middot; GoogleTest</i></sub>
       </p>
     </td>
     <td width="50%">
@@ -90,10 +93,13 @@
         processing.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&theme=dark" />
-        <img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=anthropic&logoColor=white" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/chromadb.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/sentence-transformers.png" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&theme=dark" title="Next.js, TypeScript, FastAPI" alt="Next.js, TypeScript, FastAPI" />
+        <img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=anthropic&logoColor=white" width="48" height="48" title="Claude API" alt="Claude API" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/chromadb%20(1).png" width="48" height="48" title="ChromaDB" alt="ChromaDB" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/sentence-transformers%20(1).png" width="48" height="48" title="sentence-transformers" alt="sentence-transformers" />
+      </p>
+      <p align="center">
+        <sub><i>Next.js &middot; TypeScript &middot; FastAPI &middot; Claude API &middot; ChromaDB &middot; sentence-transformers</i></sub>
       </p>
     </td>
   </tr>
@@ -115,7 +121,10 @@
         workflow, and signature image insertion for final output.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,flask,nextjs,postgres,docker&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=python,flask,nextjs,postgres,docker&theme=dark" title="Python, Flask, Next.js, PostgreSQL, Docker" alt="Python, Flask, Next.js, PostgreSQL, Docker" />
+      </p>
+      <p align="center">
+        <sub><i>Python &middot; Flask &middot; Next.js &middot; PostgreSQL &middot; Docker</i></sub>
       </p>
     </td>
   </tr>
@@ -129,34 +138,44 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,c,bash&theme=dark" title="Python, TypeScript, JavaScript, Java, C++, C, Bash" alt="Python, TypeScript, JavaScript, Java, C++, C, Bash" />
+
+<sub><i>Python &middot; TypeScript &middot; JavaScript &middot; Java &middot; C++ &middot; C &middot; Bash</i></sub>
 
 <br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css&theme=dark" title="React, Next.js, Angular, HTML, CSS" alt="React, Next.js, Angular, HTML, CSS" />
+
+<sub><i>React &middot; Next.js &middot; Angular &middot; HTML &middot; CSS</i></sub>
 
 <br/>
 
 **Backend and Databases**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,mongodb,redis&theme=dark" title="FastAPI, Flask, PostgreSQL, MySQL, MongoDB, Redis" alt="FastAPI, Flask, PostgreSQL, MySQL, MongoDB, Redis" />
+
+<sub><i>FastAPI &middot; Flask &middot; PostgreSQL &middot; MySQL &middot; MongoDB &middot; Redis</i></sub>
 
 <br/>
 
 **DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,azure,git,linux&theme=dark" title="Docker, GitHub Actions, Azure, Git, Linux" alt="Docker, GitHub Actions, Azure, Git, Linux" />
+
+<sub><i>Docker &middot; GitHub Actions &middot; Azure &middot; Git &middot; Linux</i></sub>
 
 <br/>
 
 **AI and Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
-<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="48" height="48" />
-<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" />
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" title="PyTorch, TensorFlow" alt="PyTorch, TensorFlow" />
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="48" height="48" title="BigQuery" alt="BigQuery" />
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" width="48" height="48" title="dbt" alt="dbt" />
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" title="NumPy" alt="NumPy" />
+
+<sub><i>PyTorch &middot; TensorFlow &middot; BigQuery &middot; dbt &middot; NumPy</i></sub>
 
 </div>
 
