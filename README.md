@@ -62,7 +62,8 @@
         GoogleTest unit tests.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,opengl&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/opengl.png" width="48" height="48" />
         <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/cmake_2.png" width="48" height="48" />
         <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/dear-imgui.png" width="48" height="48" />
         <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/glfw.png" width="48" height="48" />
