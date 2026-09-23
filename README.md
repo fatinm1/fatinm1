@@ -63,10 +63,10 @@
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=cpp,opengl&theme=dark" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/cmake.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/dear-imgui.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/glfw.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/googletest.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/cmake.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/dear-imgui.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/glfw.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/googletest.png" width="48" height="48" />
       </p>
     </td>
     <td width="50%">
@@ -91,8 +91,8 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&theme=dark" />
         <img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=anthropic&logoColor=white" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/chromadb.png" width="48" height="48" />
-        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/sentence-transformers.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/chromadb.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/sentence-transformers.png" width="48" height="48" />
       </p>
     </td>
   </tr>
