@@ -62,9 +62,10 @@
         GoogleTest unit tests.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,cmake,opengl&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cpp,opengl&theme=dark" />
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/CMake-1a1a2e?style=flat-square&logo=cmake&logoColor=white" />
         <img src="https://img.shields.io/badge/Dear_ImGui-1a1a2e?style=flat-square" />
         <img src="https://img.shields.io/badge/GLFW-1a1a2e?style=flat-square" />
         <img src="https://img.shields.io/badge/GoogleTest-1a1a2e?style=flat-square" />
