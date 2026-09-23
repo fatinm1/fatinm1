@@ -63,12 +63,10 @@
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=cpp,opengl&theme=dark" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/CMake-1a1a2e?style=flat-square&logo=cmake&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dear_ImGui-1a1a2e?style=flat-square" />
-        <img src="https://img.shields.io/badge/GLFW-1a1a2e?style=flat-square" />
-        <img src="https://img.shields.io/badge/GoogleTest-1a1a2e?style=flat-square" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/cmake.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/dear-imgui.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/glfw.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/googletest.png" width="48" height="48" />
       </p>
     </td>
     <td width="50%">
@@ -92,11 +90,9 @@
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&theme=dark" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square" />
-        <img src="https://img.shields.io/badge/sentence--transformers-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/-D97757?style=flat-square&logo=anthropic&logoColor=white" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/chromadb.png" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/assets/icons/sentence-transformers.png" width="48" height="48" />
       </p>
     </td>
   </tr>
