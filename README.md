@@ -43,68 +43,54 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Applyd</h3>
+      <h3 align="center">LLM Engine</h3>
       <p align="center">
-        <a href="https://applyd-production.up.railway.app/">
-          <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=railway&logoColor=white" />
+        <a href="https://fatinm1.github.io/LLM-Engine/">
+          <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=githubpages&logoColor=white" />
         </a>
-        <a href="https://github.com/fatinm1">
+        <a href="https://github.com/fatinm1/LLM-Engine">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        Autonomous job application agent. Two-stage Claude API
-        ranker cuts API costs <strong>70%</strong>. Generates
-        tailored resume PDFs in <strong>under 10 seconds</strong>.
-        Automates Lever and Greenhouse submissions via Playwright,
-        saving <strong>2+ hours/week</strong>.
+        Local LLM inference engine built from scratch in C++.
+        Runs Llama 3.2 on CPU with a custom model parser,
+        tokenizer, transformer math, and KV cache, no external
+        libraries. Loads the <strong>808MB</strong> model via
+        mmap and runs at <strong>5.1 tokens/sec</strong> on
+        Apple Silicon, validated by <strong>22</strong>
+        GoogleTest unit tests.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,mysql,docker,selenium&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=cpp,cmake,opengl&theme=dark" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">PaceWise</h3>
+      <h3 align="center">LectureKit</h3>
       <p align="center">
-        <a href="https://pacewise-production.up.railway.app/landing">
-          <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=railway&logoColor=white" />
+        <a href="https://lecture-kit.vercel.app/">
+          <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
         <a href="https://github.com/fatinm1">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        Full-stack data engineering platform on the Strava API.
-        Incremental BigQuery ELT pipeline with Airflow DAGs,
-        dbt staging and mart models, automated quality tests,
-        and BigQuery costs cut <strong>40%</strong> via
-        partitioning and clustering.
+        Multi-agent AI platform turning YouTube lectures into
+        study guides, faculty pedagogy audits, and curriculum
+        coverage maps via Claude Sonnet. Local sentence-transformer
+        embeddings with a persistent ChromaDB vector index hit
+        <strong>&lt;0.02s</strong> search latency, with a resilient
+        transcript pipeline and <strong>~80s</strong> end-to-end
+        processing.
       </p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,nextjs,azure,docker,gcp,databricks&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&theme=dark" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">GeoTrack</h3>
-      <p align="center">
-        <a href="https://github.com/fatinm1/geotrack">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        Real-time geospatial platform tracking <strong>1,000+
-        simultaneous aircraft</strong> and <strong>200+ cameras
-        </strong> on a live 3D globe. Redis pub/sub at
-        <strong>500+ updates/sec</strong> with PostGIS
-        queries under <strong>30ms</strong>.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,nextjs,docker&theme=dark" />
-      </p>
-    </td>
-    <td width="50%">
+    <td width="50%" colspan="2">
       <h3 align="center">ClausePilot</h3>
       <p align="center">
         <a href="https://nida-proj-production.up.railway.app/">
