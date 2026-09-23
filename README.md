@@ -64,6 +64,11 @@
       <p align="center">
         <img src="https://skillicons.dev/icons?i=cpp,cmake,opengl&theme=dark" />
       </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Dear_ImGui-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/GLFW-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/GoogleTest-1a1a2e?style=flat-square" />
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">LectureKit</h3>
@@ -86,6 +91,11 @@
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&theme=dark" />
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square" />
+        <img src="https://img.shields.io/badge/sentence--transformers-1a1a2e?style=flat-square" />
       </p>
     </td>
   </tr>
