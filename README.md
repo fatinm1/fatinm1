@@ -196,7 +196,7 @@
 ---
 
 <div align="center">
-  <i>Open to Summer 2026 SWE internships — let's build something great together.</i>
+  <i>Open to New Grad/Early Career SWE — let's build something great together.</i>
   <br/><br/>
   <a href="https://linkedin.com/in/fatin-mojumder">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
