@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;Full-Stack+%26+Data+Engineer;Building+production-grade+systems;Open+to+Summer+2026+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;Full-Stack+%26+Data+Engineer;Building+production-grade+systems;Open+to+Full-Time+Engineering+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -57,9 +57,9 @@
         Runs Llama 3.2 on CPU with a custom model parser,
         tokenizer, transformer math, and KV cache, no external
         libraries. Loads the <strong>808MB</strong> model via
-        mmap and runs at <strong>5.1 tokens/sec</strong> on
-        Apple Silicon, validated by <strong>22</strong>
-        GoogleTest unit tests.
+        mmap. Includes <strong>22</strong> GoogleTest cases
+        (the model-dependent tokenizer case requires a local checkpoint).
+        <a href="https://github.com/fatinm1/LLM-Engine/tree/main/bench">Benchmark methodology and results</a>.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++" />
@@ -79,7 +79,7 @@
         <a href="https://lecture-kit.vercel.app/">
           <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
-        <a href="https://github.com/fatinm1">
+        <a href="https://github.com/fatinm1/lectureKit">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -110,7 +110,7 @@
         <a href="https://nida-proj-production.up.railway.app/">
           <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=railway&logoColor=white" />
         </a>
-        <a href="https://github.com/fatinm1/NIDA-proj">
+        <a href="https://github.com/fatinm1/ClausePilot">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
@@ -202,3 +202,7 @@
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+### Availability
+
+B.S. Computer Science, UMBC — expected December 2026. Seeking full-time backend, full-stack, and applied AI engineering roles.
