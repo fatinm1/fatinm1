@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;Full-Stack+%26+Data+Engineer;Building+production-grade+systems;Open+to+Summer+2026+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FC4C02&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Fatin+%F0%9F%91%8B;AI+Infrastructure+%26+Full-Stack+Engineer;Building+production-grade+systems;Open+to+New+Grad+SWE+Roles+%28Dec+2026%29" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -55,8 +55,8 @@
       <p align="center">
         Local LLM inference engine built from scratch in C++.
         Runs Llama 3.2 on CPU with a custom model parser,
-        tokenizer, transformer math, and KV cache, no external
-        libraries. Loads the <strong>808MB</strong> model via
+        tokenizer, transformer math, and KV cache, with no ML or
+        inference libraries. Loads the <strong>808MB</strong> model via
         mmap and runs at <strong>5.1 tokens/sec</strong> on
         Apple Silicon, validated by <strong>22</strong>
         GoogleTest unit tests.
@@ -79,7 +79,7 @@
         <a href="https://lecture-kit.vercel.app/">
           <img src="https://img.shields.io/badge/LIVE-FC4C02?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
-        <a href="https://github.com/fatinm1">
+        <a href="https://github.com/fatinm1/lectureKit">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
