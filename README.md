@@ -45,7 +45,7 @@
     <td width="50%" valign="top">
       <h3 align="center">TokenForge</h3>
       <p align="center"><strong>C++ LLM Inference Engine</strong></p>
-      <p align="center"><a href="https://github.com/fatinm1/LLM-Engine#60-second-demo"><img src="./profile/previews/tokenforge.jpg" width="100%" alt="TokenForge native desktop inference interface" /></a></p>
+      <p align="center"><a href="https://github.com/fatinm1/LLM-Engine#60-second-demo"><img src="./profile/previews/tokenforge.jpg" width="360" height="203" alt="TokenForge native desktop inference interface" /></a></p>
       <p align="center"><a href="https://fatinm1.github.io/LLM-Engine/">Live site</a> · <a href="https://github.com/fatinm1/LLM-Engine">Code</a> · <a href="https://github.com/user-attachments/assets/f90024b7-6b12-49b7-998a-685a7004ccea">Watch 60-second demo</a></p>
       <p>A local inference engine built from scratch in C++: GGUF model loading, tokenization, transformer computation, KV caching, sampling, and a native desktop interface. Runs supported language models on CPU without an inference library.</p>
       <p><strong>Engineering highlight:</strong> A custom inference pipeline connects GGUF loading, tokenization, transformer computation, KV caching, and sampling without an inference library.</p>
@@ -62,7 +62,7 @@
     <td width="50%" valign="top">
       <h3 align="center">LectureKit</h3>
       <p align="center"><strong>Multi-Agent Lecture Study Platform</strong></p>
-      <p align="center"><a href="https://github.com/fatinm1/lectureKit#60-second-demo"><img src="./profile/previews/lecturekit.jpg" width="100%" alt="LectureKit study dashboard with timestamped outline and summaries" /></a></p>
+      <p align="center"><a href="https://github.com/fatinm1/lectureKit#60-second-demo"><img src="./profile/previews/lecturekit.jpg" width="360" height="203" alt="LectureKit study dashboard with timestamped outline and summaries" /></a></p>
       <p align="center"><a href="https://lecture-kit.vercel.app/">Live site</a> · <a href="https://github.com/fatinm1/lectureKit">Code</a> · <a href="https://github.com/user-attachments/assets/995f1709-85bb-4c6b-8cf3-573899152b49">Watch 60-second demo</a></p>
       <p>Turns public YouTube lectures into timestamped outlines, summaries, flashcards, semantic search, and translated study material. Six AI agents also support faculty pedagogy audits and curriculum coverage reports.</p>
       <p><strong>Engineering highlight:</strong> Local transcript embeddings and a persistent ChromaDB index support semantic search with timestamped source context.</p>
@@ -78,7 +78,7 @@
     <td width="50%" valign="top">
       <h3 align="center">ClausePilot</h3>
       <p align="center"><strong>AI-Assisted NDA Review &amp; Redlining</strong></p>
-      <p align="center"><a href="https://github.com/fatinm1/portfolio/blob/master/docs/clausepilot-demo.md"><img src="./profile/previews/clausepilot.jpg" width="100%" alt="ClausePilot landing page and NDA redlining preview" /></a></p>
+      <p align="center"><a href="https://github.com/fatinm1/portfolio/blob/master/docs/clausepilot-demo.md"><img src="./profile/previews/clausepilot.jpg" width="360" height="203" alt="ClausePilot landing page and NDA redlining preview" /></a></p>
       <p align="center"><a href="https://github.com/fatinm1/ClausePilot">Code</a> · <a href="https://github.com/user-attachments/assets/da42192f-01f1-48c5-96e3-4b6222fd1575">Watch 60-second demo</a></p>
       <p>Reviews and redlines Word NDAs using GPT-4 and admin-defined rules. Supports an accept/reject review workflow, firm details, signature insertion, and downloadable edited documents.</p>
       <p><strong>Engineering highlight:</strong> A Word document pipeline applies structured AI suggestions and admin-defined rules, with an optional accept/reject review step.</p>
@@ -90,7 +90,7 @@
     <td width="50%" valign="top">
       <h3 align="center">TheraSync</h3>
       <p align="center"><strong>Therapy Appointment Scheduling Platform</strong></p>
-      <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling"><img src="./profile/previews/therasync.jpg" width="100%" alt="TheraSync development screenshot showing appointment dates and available times" /></a></p>
+      <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling"><img src="./profile/previews/therasync.jpg" width="360" height="203" alt="TheraSync development screenshot showing appointment dates and available times" /></a></p>
       <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling">Code</a> · <a href="https://github.com/user-attachments/assets/ad734257-3aa1-40c4-9f8a-e9261b54701f">Watch 60-second demo</a></p>
       <p>Coordinates therapy appointments across parents, students, therapists, and admins. Includes role-based dashboards, therapist availability, chatbot scheduling, and email notifications. <strong>Development demo; not currently deployed.</strong></p>
       <p><strong>Engineering highlight:</strong> Role-based scheduling connects therapist availability with parent and student booking flows.</p>
@@ -185,6 +185,7 @@ Benchmarking my C++ inference engine against llama.cpp on an Apple M4, examining
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
 
 
