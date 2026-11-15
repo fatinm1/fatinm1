@@ -45,6 +45,14 @@
       <p align="center"><strong>C++ LLM Inference Engine</strong></p>
       <p align="center"><a href="https://fatinm1.github.io/LLM-Engine/">Live site</a> · <a href="https://github.com/fatinm1/LLM-Engine">Code</a> · <a href="https://github.com/user-attachments/assets/f90024b7-6b12-49b7-998a-685a7004ccea">Watch 60-second demo</a></p>
       <p>A local inference engine built from scratch in C++: GGUF model loading, tokenization, transformer computation, KV caching, sampling, and a native desktop interface. Runs supported language models on CPU without an inference library.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" height="40" title="C++" alt="C++" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/opengl.png" width="40" height="40" title="OpenGL" alt="OpenGL" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/cmake_2.png" width="40" height="40" title="CMake" alt="CMake" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/dear-imgui%20(1).png" width="40" height="40" title="Dear ImGui" alt="Dear ImGui" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/glfw%20(1).png" width="40" height="40" title="GLFW" alt="GLFW" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/googletest%20(1).png" width="40" height="40" title="GoogleTest" alt="GoogleTest" />
+      </p>
       <p align="center"><sub>C++ · OpenGL · CMake · Dear ImGui · GLFW · GoogleTest</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -52,6 +60,11 @@
       <p align="center"><strong>Multi-Agent Lecture Study Platform</strong></p>
       <p align="center"><a href="https://lecture-kit.vercel.app/">Live site</a> · <a href="https://github.com/fatinm1/lectureKit">Code</a> · <a href="https://github.com/user-attachments/assets/995f1709-85bb-4c6b-8cf3-573899152b49">Watch 60-second demo</a></p>
       <p>Turns public YouTube lectures into timestamped outlines, summaries, flashcards, semantic search, and translated study material. Six AI agents also support faculty pedagogy audits and curriculum coverage reports.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,typescript,fastapi&amp;theme=dark" height="40" title="Next.js, TypeScript, FastAPI" alt="Next.js, TypeScript, FastAPI" />
+        <img src="https://img.shields.io/badge/-D97757?style=flat-square&amp;logo=anthropic&amp;logoColor=white" width="40" height="40" title="Claude API" alt="Claude API" />
+        <img src="https://raw.githubusercontent.com/fatinm1/fatinm1/main/chromadb%20(1).png" width="40" height="40" title="ChromaDB" alt="ChromaDB" />
+      </p>
       <p align="center"><sub>Next.js · TypeScript · FastAPI · Claude API · ChromaDB</sub></p>
     </td>
   </tr>
@@ -61,6 +74,9 @@
       <p align="center"><strong>AI-Assisted NDA Review &amp; Redlining</strong></p>
       <p align="center"><a href="https://github.com/fatinm1/ClausePilot">Code</a> · <a href="https://github.com/user-attachments/assets/da42192f-01f1-48c5-96e3-4b6222fd1575">Watch 60-second demo</a></p>
       <p>Reviews and redlines Word NDAs using GPT-4 and admin-defined rules. Supports an accept/reject review workflow, firm details, signature insertion, and downloadable edited documents.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,typescript,flask,postgres,python&amp;theme=dark" height="40" title="Next.js, TypeScript, Flask, PostgreSQL, Python (python-docx)" alt="Next.js, TypeScript, Flask, PostgreSQL, Python (python-docx)" />
+      </p>
       <p align="center"><sub>Next.js · TypeScript · Flask · PostgreSQL · python-docx</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -68,6 +84,11 @@
       <p align="center"><strong>Therapy Appointment Scheduling Platform</strong></p>
       <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling">Code</a> · <a href="https://github.com/user-attachments/assets/ad734257-3aa1-40c4-9f8a-e9261b54701f">Watch 60-second demo</a></p>
       <p>Coordinates therapy appointments across parents, students, therapists, and admins. Includes role-based dashboards, therapist availability, chatbot scheduling, and email notifications. <strong>Development demo; not currently deployed.</strong></p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,flask,mysql&amp;theme=dark" height="40" title="React, Flask, MySQL" alt="React, Flask, MySQL" />
+        <img src="https://img.shields.io/badge/-181717?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=FB015B" width="40" height="40" title="JWT" alt="JWT" />
+        <img src="https://img.shields.io/badge/-181717?style=flat-square&amp;logo=spacy&amp;logoColor=09A3D5" width="40" height="40" title="spaCy" alt="spaCy" />
+      </p>
       <p align="center"><sub>React · Flask · MySQL · JWT · spaCy</sub></p>
     </td>
   </tr>
@@ -145,4 +166,5 @@
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
 
