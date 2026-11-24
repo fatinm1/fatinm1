@@ -46,7 +46,7 @@
       <h3 align="center">TokenForge</h3>
       <p align="center"><strong>C++ LLM Inference Engine</strong></p>
       <p align="center"><a href="https://github.com/fatinm1/LLM-Engine#60-second-demo"><img src="./profile/previews/tokenforge.jpg" width="360" height="203" alt="TokenForge native desktop inference interface" /></a></p>
-      <p align="center"><a href="https://fatinm1.github.io/LLM-Engine/">Live site</a> · <a href="https://github.com/fatinm1/LLM-Engine">Code</a> · <a href="https://github.com/user-attachments/assets/f90024b7-6b12-49b7-998a-685a7004ccea">Watch 60-second demo</a></p>
+      <p align="center"><a href="https://fatinm1.github.io/LLM-Engine/">Live site</a> · <a href="https://github.com/fatinm1/LLM-Engine">Code</a> · <a href="https://github.com/user-attachments/assets/ec7305f8-c943-4d77-a3be-2e6035fe17e0">Watch 60-second demo</a></p>
       <p>A local inference engine built from scratch in C++: GGUF model loading, tokenization, transformer computation, KV caching, sampling, and a native desktop interface. Runs supported language models on CPU without an inference library.</p>
       <p><strong>Engineering highlight:</strong> A custom inference pipeline connects GGUF loading, tokenization, transformer computation, KV caching, and sampling without an inference library.</p>
       <p align="center">
