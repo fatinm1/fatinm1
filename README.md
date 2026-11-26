@@ -63,7 +63,7 @@
       <h3 align="center">LectureKit</h3>
       <p align="center"><strong>Multi-Agent Lecture Study Platform</strong></p>
       <p align="center"><a href="https://github.com/fatinm1/lectureKit#60-second-demo"><img src="./profile/previews/lecturekit.jpg" width="360" height="203" alt="LectureKit study dashboard with timestamped outline and summaries" /></a></p>
-      <p align="center"><a href="https://lecture-kit.vercel.app/">Live site</a> · <a href="https://github.com/fatinm1/lectureKit">Code</a> · <a href="https://github.com/user-attachments/assets/995f1709-85bb-4c6b-8cf3-573899152b49">Watch 60-second demo</a></p>
+      <p align="center"><a href="https://lecture-kit.vercel.app/">Live site</a> · <a href="https://github.com/fatinm1/lectureKit">Code</a> · <a href="https://github.com/user-attachments/assets/46d76fdf-15e6-48e3-a01e-830889ccd648">Watch 60-second demo</a></p>
       <p>Turns public YouTube lectures into timestamped outlines, summaries, flashcards, semantic search, and translated study material. Six AI agents also support faculty pedagogy audits and curriculum coverage reports.</p>
       <p><strong>Engineering highlight:</strong> Local transcript embeddings and a persistent ChromaDB index support semantic search with timestamped source context.</p>
       <p align="center">
