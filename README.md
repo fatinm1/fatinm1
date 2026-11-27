@@ -78,9 +78,9 @@
     <td width="50%" valign="top">
       <h3 align="center">ClausePilot</h3>
       <p align="center"><strong>AI-Assisted NDA Review &amp; Redlining</strong></p>
-      <p align="center"><a href="https://github.com/fatinm1/portfolio/blob/master/docs/clausepilot-demo.md"><img src="./profile/previews/clausepilot.jpg" width="360" height="203" alt="ClausePilot landing page and NDA redlining preview" /></a></p>
-      <p align="center"><a href="https://github.com/fatinm1/ClausePilot">Code</a> · <a href="https://github.com/user-attachments/assets/da42192f-01f1-48c5-96e3-4b6222fd1575">Watch 60-second demo</a></p>
-      <p>Reviews and redlines Word NDAs using GPT-4 and admin-defined rules. Supports an accept/reject review workflow, firm details, signature insertion, and downloadable edited documents.</p>
+      <p align="center"><a href="https://github.com/fatinm1/portfolio/blob/master/docs/clausepilot-demo.md"><img src="https://github.com/user-attachments/assets/b5b92348-0d1e-4152-a88d-ff097f49e4ce" width="360" height="203" alt="ClausePilot demo video title card" /></a></p>
+      <p align="center"><a href="https://github.com/fatinm1/ClausePilot">Code</a> · <a href="https://github.com/user-attachments/assets/949325c3-772a-4238-8d1d-6526e8f9bcaf">Watch 60-second demo</a></p>
+      <p>Reviews and redlines Word NDAs against a firm's own admin-defined rules, using an LLM only where a rule needs rewritten language. Supports an accept/reject review workflow, firm details, signature insertion, and downloadable edited documents.</p>
       <p><strong>Engineering highlight:</strong> A Word document pipeline applies structured AI suggestions and admin-defined rules, with an optional accept/reject review step.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nextjs,typescript,flask,postgres,python&amp;theme=dark" height="40" title="Next.js, TypeScript, Flask, PostgreSQL, Python (python-docx)" alt="Next.js, TypeScript, Flask, PostgreSQL, Python (python-docx)" />
