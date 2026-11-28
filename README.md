@@ -90,8 +90,8 @@
     <td width="50%" valign="top">
       <h3 align="center">TheraSync</h3>
       <p align="center"><strong>Therapy Appointment Scheduling Platform</strong></p>
-      <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling"><img src="./profile/previews/therasync.jpg" width="360" height="203" alt="TheraSync development screenshot showing appointment dates and available times" /></a></p>
-      <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling">Code</a> · <a href="https://github.com/user-attachments/assets/ad734257-3aa1-40c4-9f8a-e9261b54701f">Watch 60-second demo</a></p>
+      <p align="center"><a href="https://fatin.dev/demos/therasync-demo.mp4"><img src="https://raw.githubusercontent.com/fatinm1/portfolio/master/public/demos/therasync-poster.jpg" width="360" height="203" alt="TheraSync demo video title card" /></a></p>
+      <p align="center"><a href="https://github.com/fatinm1/Therapy-Scheduling">Code</a> · <a href="https://fatin.dev/demos/therasync-demo.mp4">Watch 60-second demo</a></p>
       <p>Coordinates therapy appointments across parents, students, therapists, and admins. Includes role-based dashboards, therapist availability, chatbot scheduling, and email notifications. <strong>Development demo; not currently deployed.</strong></p>
       <p><strong>Engineering highlight:</strong> Role-based scheduling connects therapist availability with parent and student booking flows.</p>
       <p align="center">
